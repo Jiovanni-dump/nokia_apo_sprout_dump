@@ -1,0 +1,9 @@
+modem.img
+vendor/etc/camera/vidhance.lic
+product/app/WebViewGoogle/WebViewGoogle.apk
+product/app/Photos/Photos.apk
+product/app/Messages/Messages.apk
+product/priv-app/GmsCore/GmsCore.apk
+product/priv-app/Velvet/Velvet.apk
+system/system/priv-app/HMDCamera/HMDCamera.apk
+system_ext/apex/com.android.vndk.v30.apex

@@ -1,0 +1,6 @@
+#### add 600RU ODM sys prop###
+ro.product.vendor.name=Apollo_00RU
+ro.product.vendor.device=APO
+ro.vendor.build.fingerprint=Nokia/Apollo_00RU/APO:13/TKQ1.220807.001/00WW_2_420:user/release-keys
+ro.bootimage.build.fingerprint=Nokia/Apollo_00RU/APO:13/TKQ1.220807.001/00WW_2_420:user/release-keys
+ro.odm.build.fingerprint=Nokia/Apollo_00RU/APO:13/TKQ1.220807.001/00WW_2_420:user/release-keys
