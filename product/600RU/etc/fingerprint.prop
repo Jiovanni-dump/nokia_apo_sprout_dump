@@ -1,0 +1,17 @@
+#### add 600RU fingerprint properties###
+ro.build.display.id=00WW_2_420_RU
+ro.build.version.incremental=00WW_2_420
+ro.product.model.num=00RU
+ro.product.system.name=Apollo_00RU
+ro.product.system_ext.name=Apollo_00RU
+ro.product.product.name=Apollo_00RU
+ro.build.product.name=Apollo_00RU
+ro.product.product.device=APO
+ro.product.system.device=APO
+ro.product.system_ext.device=APO
+ro.build.product=APO
+ro.system.build.fingerprint=Nokia/Apollo_00RU/APO:13/TKQ1.220807.001/00WW_2_420:user/release-keys
+ro.system_ext.build.fingerprint=Nokia/Apollo_00RU/APO:13/TKQ1.220807.001/00WW_2_420:user/release-keys
+ro.product.build.fingerprint=Nokia/Apollo_00RU/APO:13/TKQ1.220807.001/00WW_2_420:user/release-keys
+ro.build.version.base_os=
+
